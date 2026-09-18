@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace Calculadora_IanDel.Pages
+namespace Calculadora_IanDEl.Pages
 {
     public class PrivacyModel : PageModel
     {
